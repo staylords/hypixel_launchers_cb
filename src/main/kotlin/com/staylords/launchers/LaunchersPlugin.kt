@@ -80,6 +80,7 @@ class LaunchersPlugin : JavaPlugin(), Listener {
             }.runTaskTimer(this, 0L, 1L)
         }
     }
+
     private fun estimateCurveLength(): Double {
         var length = 0.0
         val numSegments = 100 // Number of segments to divide the curve
