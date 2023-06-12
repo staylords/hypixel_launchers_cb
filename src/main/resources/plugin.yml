@@ -1,0 +1,6 @@
+name: HypixelLaunchers
+main: com.staylords.launchers.LaunchersPlugin
+version: 1.0
+author: staylords
+website: https://git.staylords.com/
+description: Jump pad launchers inspired by Hypixel's The Pit.
