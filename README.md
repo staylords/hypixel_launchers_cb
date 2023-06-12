@@ -25,7 +25,7 @@ One other trick is you can estimate the length of the curve and determine the %/
 ~~~~
 
 # Example 
-![example](https://gyazo.com/eca88424d7fef0cc0f6f2c579c081235.gif)
+https://github.com/staylords/hypixel_launchers_cb/assets/80008857/d2b9a7b7-1ab1-497a-8187-4522e9ebbf2e
 
 ~~~~
 Made a curve off 4 hard-coded locations
