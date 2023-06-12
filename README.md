@@ -35,4 +35,11 @@ Made a curve off 4 hard-coded locations
 - -7903.473 67.0 4522.475
 ~~~~
 
+# Encountered any bugs?
+Feel free to contact me and i'll make sure to fix it ASAP, project took me ~15 minutes between testing and writing code. This readme took me more time. 
+
+# Contact 
+Joseph - [@staylords](https://twitter.com/staylords) - me@staylords.com
+
+
 [Cubic Bézier Curves]: https://en.wikipedia.org/wiki/B%C3%A9zier_curve
