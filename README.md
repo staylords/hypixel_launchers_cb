@@ -1,5 +1,9 @@
 ﻿# hypixel_launchers_cb
  
+# Formula
+[Cubic Bézier Curves]
+
+
 # Inspiration
 Jump pad launchers inspired by Hypixel's The Pit.
 
@@ -21,9 +25,7 @@ One other trick is you can estimate the length of the curve and determine the %/
 ~~~~
 
 # Example 
-<a href="https://gyazo.com/eca88424d7fef0cc0f6f2c579c081235">
-  <img src="https://i.gyazo.com/eca88424d7fef0cc0f6f2c579c081235.gif" width="1280">
-</a>
+![example](https://gyazo.com/eca88424d7fef0cc0f6f2c579c081235.gif)
 
 ~~~~
 Made a curve off 4 hard-coded locations
@@ -32,3 +34,5 @@ Made a curve off 4 hard-coded locations
 - -7908.895 77.75985 4513.014
 - -7903.473 67.0 4522.475
 ~~~~
+
+[Cubic Bézier Curves]: https://en.wikipedia.org/wiki/B%C3%A9zier_curve
